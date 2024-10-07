@@ -13,3 +13,4 @@ Orellana Huanasca Ernesto Iván | Diseñador   |
 Vera Zea Jhoanna Hade          | Programador |
 ----------------------------------------------
 Vilchez Lázaro Bryams Ulises   | Programador |
+----------------------------------------------

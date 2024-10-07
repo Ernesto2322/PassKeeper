@@ -4,12 +4,12 @@ Desarrollar una aplicación de gestión de tiempo multipropósito que combine un
 ## Integrantes
 |Apellidos y nombres           | Rol |
 
-Delgadillo Catiño Aly Nikol
+Delgadillo Catiño Aly Nikol     Programador  
 
-Morris Cordova Marcelo Alen
+Morris Cordova Marcelo Alen     Diseñador
 
-Orellana Huanasca Ernesto Iván
+Orellana Huanasca Ernesto Iván  Diseñador
 
-Vera Zea Jhoanna Hade
+Vera Zea Jhoanna Hade Programador
 
-Vilchez Lázaro Bryams Ulises
+Vilchez Lázaro Bryams Ulises  Programador
